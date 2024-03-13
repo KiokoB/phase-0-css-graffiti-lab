@@ -1,1 +1,20 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    background-image: none;
+}
+div.parent {
+    display: none;
+}
+#tag-4 {
+    background-image: none;
+}
+#wall #tag-2 {
+    background-image: none;
+    display: none;
+    z-index: 0;
+}
+#tag-3 {display: none;
+    background-image: none;
+    z-index: 0;
+}
